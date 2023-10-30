@@ -1,4 +1,4 @@
-# Recursive Eurclidean Algorithm
+# Recursive Euclidean Algorithm
 
 ### Usage
 ```bash
