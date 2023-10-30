@@ -2,5 +2,5 @@
 
 ### Usage
 ```bash
-    run . a b
+    run . a b # gcd(a, b)
 ```
